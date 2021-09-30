@@ -8,4 +8,4 @@ if weight_of_package <= minWeight or maxWeight < weight_of_package:
     print("sorry, cannot ship package")
 
 if minDistance < 10 or maxDistance >3000:
-    print
+    print(sorry,cannot ship pacakge)
